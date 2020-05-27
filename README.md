@@ -1,5 +1,5 @@
 
-This is Real Time Apllication for inventory-management
+This is Real Time Apllication for inventory-management(React-Redux)
 
 Website link :https://inventory-management-81952.web.app
 
